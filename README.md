@@ -1,4 +1,4 @@
-Primer disseny de pàgina web.
+Primer diseño de página web.
 
 Hago el esquema de la página y lo relleno con los datos.
 
